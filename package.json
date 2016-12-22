@@ -1,0 +1,16 @@
+{
+  "name": "i18next-test",
+  "version": "0.0.1",
+  "description": "Test bug",
+  "main": "index.js",
+  "author": {
+    "name": "Niels Krijger",
+    "email": "niels@kryger.nl"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "dependencies": {
+    "i18next": "^4.1.1"
+  }
+}
